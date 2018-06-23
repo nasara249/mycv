@@ -10,7 +10,7 @@
 </head>
 
 <body style="background:url('bg.jpg') no-repeat fixed;background-size: cover;">
-    <div style="margin: 40px 10px 40px 10px;">
+    <div class="container" style="margin: 40px auto;">
         <div class="jumbotron" style="opacity:0.5">
             <h3>XML FILE MANIPULATION</h3>
             <h5>Using Simple Core PHP, Bootstrap Theme and Ajax</h5>
