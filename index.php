@@ -10,13 +10,13 @@
 </head>
 
 <body style="background:url('bg.jpg') no-repeat fixed;background-size: cover;">
-    <div class="container" style="margin: 40px auto;">
+    <div style="margin: 40px 10px 40px 10px;">
         <div class="jumbotron" style="opacity:0.5">
             <h3>XML FILE MANIPULATION</h3>
             <h5>Using Simple Core PHP, Bootstrap Theme and Ajax</h5>
         </div>
-    <div class="row wrapper">
-        <div class="col-lg-6 p-lg">
+    <div class="row">
+        <div class="col-lg-6 col-sm-12 col-md-12 p-lg">
             <form class="form" name="frm" role="form" id="frm" method="post">
                 <div class="form-group">
                     <input type="text" name="name" id="name" class="form-control" placeholder="Name" autofocus>
@@ -43,7 +43,7 @@
             <div class="clearfix"></div>
 
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-6 col-sm-12 col-md-12">
             <div class="row" id="show_data">
 
             </div>
